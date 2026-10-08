@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 840 388" width="840" height="388" role="img" aria-label="139 contribuciones en el último año">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 840 388" width="840" height="388" role="img" aria-label="140 contribuciones en el último año">
 <style>
 :root{--bg:#ffffff;--bd:#d1d9e0;--fg:#1f2328;--mut:#59636e;--grid:#eaeef2;
 --l0:#eff2f5;--l1:#aceebb;--l2:#4ac26b;--l3:#2da44e;--l4:#116329;
@@ -35,11 +35,11 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helveti
 </style>
 <defs><linearGradient id="stroke" gradientUnits="userSpaceOnUse" x1="58" y1="0" x2="812" y2="0"><stop class="s0" offset="0"/><stop class="s1" offset="1"/></linearGradient><linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop class="a0" offset="0"/><stop class="a1" offset="1"/></linearGradient></defs>
 <rect class="card" x=".5" y=".5" width="839" height="387" rx="12"/>
-<text class="big intro" x="27" y="68">139</text>
+<text class="big intro" x="27" y="68">140</text>
 <text class="caption intro" x="28" y="92" style="animation-delay:.1s">contribuciones en el último año</text>
-<text class="value intro" x="512" y="62" text-anchor="end" style="animation-delay:0.15s">311</text>
+<text class="value intro" x="512" y="62" text-anchor="end" style="animation-delay:0.15s">312</text>
 <text class="small intro" x="512" y="82" text-anchor="end" style="animation-delay:0.15s">total histórico</text>
-<text class="value intro" x="662" y="62" text-anchor="end" style="animation-delay:0.23s">36</text>
+<text class="value intro" x="662" y="62" text-anchor="end" style="animation-delay:0.23s">47</text>
 <text class="small intro" x="662" y="82" text-anchor="end" style="animation-delay:0.23s">días activos</text>
 <text class="value intro" x="812" y="62" text-anchor="end" style="animation-delay:0.31s">10</text>
 <text class="small intro" x="812" y="82" text-anchor="end" style="animation-delay:0.31s">mejor día · 26 abr</text>
@@ -48,9 +48,9 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helveti
 <line class="gridline" x1="58" y1="206.0" x2="812" y2="206.0"/>
 <text class="tiny" x="50" y="125" text-anchor="end">23 / sem</text>
 <g class="chart">
-<path class="area" d="M63.5 206.0C68.2 206.0 73.0 206.0 77.7 206.0C82.4 206.0 87.2 195.0 91.9 195.0C96.6 195.0 101.4 206.0 106.1 206.0C110.8 206.0 115.6 191.4 120.3 191.4C125.0 191.4 129.8 206.0 134.5 206.0C139.2 206.0 144.0 206.0 148.7 206.0C153.4 206.0 158.2 191.4 162.9 191.4C167.6 191.4 172.4 206.0 177.1 206.0C181.8 206.0 186.6 206.0 191.3 206.0C196.0 206.0 200.8 206.0 205.5 206.0C210.2 206.0 215.0 206.0 219.7 206.0C224.4 206.0 229.2 206.0 233.9 206.0C238.6 206.0 243.4 206.0 248.1 206.0C252.8 206.0 257.6 206.0 262.3 206.0C267.0 206.0 271.8 206.0 276.5 206.0C281.2 206.0 286.0 206.0 290.7 206.0C295.4 206.0 300.2 206.0 304.9 206.0C309.6 206.0 314.4 206.0 319.1 206.0C323.8 206.0 328.6 206.0 333.3 206.0C338.0 206.0 342.8 206.0 347.5 206.0C352.2 206.0 357.0 206.0 361.7 206.0C366.4 206.0 371.2 206.0 375.9 206.0C380.6 206.0 385.4 198.7 390.1 198.7C394.8 198.7 399.6 198.7 404.3 198.7C409.0 198.7 413.8 206.0 418.5 206.0C423.2 206.0 428.0 180.4 432.7 180.4C437.4 180.4 442.2 198.7 446.9 198.7C451.6 198.7 456.4 182.3 461.1 169.5C465.8 156.7 470.6 122.0 475.3 122.0C480.0 122.0 484.8 154.9 489.5 165.8C494.2 176.8 499.0 187.7 503.7 187.7C508.4 187.7 513.2 162.2 517.9 154.9C522.6 147.6 527.4 143.9 532.1 143.9C536.8 143.9 541.6 165.8 546.3 165.8C551.0 165.8 555.8 162.2 560.5 162.2C565.2 162.2 570.0 184.6 574.7 187.7C579.4 190.8 584.2 189.5 588.9 191.4C593.6 193.3 598.4 206.0 603.1 206.0C607.8 206.0 612.6 206.0 617.3 206.0C622.0 206.0 626.8 206.0 631.5 206.0C636.2 206.0 641.0 206.0 645.7 206.0C650.4 206.0 655.2 206.0 659.9 206.0C664.6 206.0 669.4 206.0 674.1 206.0C678.8 206.0 683.6 206.0 688.3 206.0C693.0 206.0 697.8 206.0 702.5 206.0C707.2 206.0 712.0 206.0 716.7 206.0C721.4 206.0 726.2 206.0 730.9 206.0C735.6 206.0 740.4 206.0 745.1 206.0C749.8 206.0 754.6 206.0 759.3 206.0C764.0 206.0 768.8 206.0 773.5 206.0C778.2 206.0 783.0 206.0 787.7 206.0C792.4 206.0 797.2 198.7 801.9 195.0L801.9 206.0L63.5 206.0Z"/>
-<path class="halo" pathLength="1" d="M63.5 206.0C68.2 206.0 73.0 206.0 77.7 206.0C82.4 206.0 87.2 195.0 91.9 195.0C96.6 195.0 101.4 206.0 106.1 206.0C110.8 206.0 115.6 191.4 120.3 191.4C125.0 191.4 129.8 206.0 134.5 206.0C139.2 206.0 144.0 206.0 148.7 206.0C153.4 206.0 158.2 191.4 162.9 191.4C167.6 191.4 172.4 206.0 177.1 206.0C181.8 206.0 186.6 206.0 191.3 206.0C196.0 206.0 200.8 206.0 205.5 206.0C210.2 206.0 215.0 206.0 219.7 206.0C224.4 206.0 229.2 206.0 233.9 206.0C238.6 206.0 243.4 206.0 248.1 206.0C252.8 206.0 257.6 206.0 262.3 206.0C267.0 206.0 271.8 206.0 276.5 206.0C281.2 206.0 286.0 206.0 290.7 206.0C295.4 206.0 300.2 206.0 304.9 206.0C309.6 206.0 314.4 206.0 319.1 206.0C323.8 206.0 328.6 206.0 333.3 206.0C338.0 206.0 342.8 206.0 347.5 206.0C352.2 206.0 357.0 206.0 361.7 206.0C366.4 206.0 371.2 206.0 375.9 206.0C380.6 206.0 385.4 198.7 390.1 198.7C394.8 198.7 399.6 198.7 404.3 198.7C409.0 198.7 413.8 206.0 418.5 206.0C423.2 206.0 428.0 180.4 432.7 180.4C437.4 180.4 442.2 198.7 446.9 198.7C451.6 198.7 456.4 182.3 461.1 169.5C465.8 156.7 470.6 122.0 475.3 122.0C480.0 122.0 484.8 154.9 489.5 165.8C494.2 176.8 499.0 187.7 503.7 187.7C508.4 187.7 513.2 162.2 517.9 154.9C522.6 147.6 527.4 143.9 532.1 143.9C536.8 143.9 541.6 165.8 546.3 165.8C551.0 165.8 555.8 162.2 560.5 162.2C565.2 162.2 570.0 184.6 574.7 187.7C579.4 190.8 584.2 189.5 588.9 191.4C593.6 193.3 598.4 206.0 603.1 206.0C607.8 206.0 612.6 206.0 617.3 206.0C622.0 206.0 626.8 206.0 631.5 206.0C636.2 206.0 641.0 206.0 645.7 206.0C650.4 206.0 655.2 206.0 659.9 206.0C664.6 206.0 669.4 206.0 674.1 206.0C678.8 206.0 683.6 206.0 688.3 206.0C693.0 206.0 697.8 206.0 702.5 206.0C707.2 206.0 712.0 206.0 716.7 206.0C721.4 206.0 726.2 206.0 730.9 206.0C735.6 206.0 740.4 206.0 745.1 206.0C749.8 206.0 754.6 206.0 759.3 206.0C764.0 206.0 768.8 206.0 773.5 206.0C778.2 206.0 783.0 206.0 787.7 206.0C792.4 206.0 797.2 198.7 801.9 195.0"/>
-<path id="trend" class="line" pathLength="1" d="M63.5 206.0C68.2 206.0 73.0 206.0 77.7 206.0C82.4 206.0 87.2 195.0 91.9 195.0C96.6 195.0 101.4 206.0 106.1 206.0C110.8 206.0 115.6 191.4 120.3 191.4C125.0 191.4 129.8 206.0 134.5 206.0C139.2 206.0 144.0 206.0 148.7 206.0C153.4 206.0 158.2 191.4 162.9 191.4C167.6 191.4 172.4 206.0 177.1 206.0C181.8 206.0 186.6 206.0 191.3 206.0C196.0 206.0 200.8 206.0 205.5 206.0C210.2 206.0 215.0 206.0 219.7 206.0C224.4 206.0 229.2 206.0 233.9 206.0C238.6 206.0 243.4 206.0 248.1 206.0C252.8 206.0 257.6 206.0 262.3 206.0C267.0 206.0 271.8 206.0 276.5 206.0C281.2 206.0 286.0 206.0 290.7 206.0C295.4 206.0 300.2 206.0 304.9 206.0C309.6 206.0 314.4 206.0 319.1 206.0C323.8 206.0 328.6 206.0 333.3 206.0C338.0 206.0 342.8 206.0 347.5 206.0C352.2 206.0 357.0 206.0 361.7 206.0C366.4 206.0 371.2 206.0 375.9 206.0C380.6 206.0 385.4 198.7 390.1 198.7C394.8 198.7 399.6 198.7 404.3 198.7C409.0 198.7 413.8 206.0 418.5 206.0C423.2 206.0 428.0 180.4 432.7 180.4C437.4 180.4 442.2 198.7 446.9 198.7C451.6 198.7 456.4 182.3 461.1 169.5C465.8 156.7 470.6 122.0 475.3 122.0C480.0 122.0 484.8 154.9 489.5 165.8C494.2 176.8 499.0 187.7 503.7 187.7C508.4 187.7 513.2 162.2 517.9 154.9C522.6 147.6 527.4 143.9 532.1 143.9C536.8 143.9 541.6 165.8 546.3 165.8C551.0 165.8 555.8 162.2 560.5 162.2C565.2 162.2 570.0 184.6 574.7 187.7C579.4 190.8 584.2 189.5 588.9 191.4C593.6 193.3 598.4 206.0 603.1 206.0C607.8 206.0 612.6 206.0 617.3 206.0C622.0 206.0 626.8 206.0 631.5 206.0C636.2 206.0 641.0 206.0 645.7 206.0C650.4 206.0 655.2 206.0 659.9 206.0C664.6 206.0 669.4 206.0 674.1 206.0C678.8 206.0 683.6 206.0 688.3 206.0C693.0 206.0 697.8 206.0 702.5 206.0C707.2 206.0 712.0 206.0 716.7 206.0C721.4 206.0 726.2 206.0 730.9 206.0C735.6 206.0 740.4 206.0 745.1 206.0C749.8 206.0 754.6 206.0 759.3 206.0C764.0 206.0 768.8 206.0 773.5 206.0C778.2 206.0 783.0 206.0 787.7 206.0C792.4 206.0 797.2 198.7 801.9 195.0"/>
+<path class="area" d="M63.5 206.0C68.2 206.0 73.0 206.0 77.7 206.0C82.4 206.0 87.2 195.0 91.9 195.0C96.6 195.0 101.4 206.0 106.1 206.0C110.8 206.0 115.6 191.4 120.3 191.4C125.0 191.4 129.8 206.0 134.5 206.0C139.2 206.0 144.0 206.0 148.7 206.0C153.4 206.0 158.2 191.4 162.9 191.4C167.6 191.4 172.4 206.0 177.1 206.0C181.8 206.0 186.6 206.0 191.3 206.0C196.0 206.0 200.8 206.0 205.5 206.0C210.2 206.0 215.0 206.0 219.7 206.0C224.4 206.0 229.2 206.0 233.9 206.0C238.6 206.0 243.4 206.0 248.1 206.0C252.8 206.0 257.6 206.0 262.3 206.0C267.0 206.0 271.8 206.0 276.5 206.0C281.2 206.0 286.0 206.0 290.7 206.0C295.4 206.0 300.2 206.0 304.9 206.0C309.6 206.0 314.4 206.0 319.1 206.0C323.8 206.0 328.6 206.0 333.3 206.0C338.0 206.0 342.8 206.0 347.5 206.0C352.2 206.0 357.0 206.0 361.7 206.0C366.4 206.0 371.2 206.0 375.9 206.0C380.6 206.0 385.4 198.7 390.1 198.7C394.8 198.7 399.6 198.7 404.3 198.7C409.0 198.7 413.8 206.0 418.5 206.0C423.2 206.0 428.0 180.4 432.7 180.4C437.4 180.4 442.2 198.7 446.9 198.7C451.6 198.7 456.4 182.3 461.1 169.5C465.8 156.7 470.6 122.0 475.3 122.0C480.0 122.0 484.8 154.9 489.5 165.8C494.2 176.8 499.0 187.7 503.7 187.7C508.4 187.7 513.2 162.2 517.9 154.9C522.6 147.6 527.4 143.9 532.1 143.9C536.8 143.9 541.6 165.8 546.3 165.8C551.0 165.8 555.8 162.2 560.5 162.2C565.2 162.2 570.0 191.4 574.7 191.4C579.4 191.4 584.2 187.7 588.9 187.7C593.6 187.7 598.4 206.0 603.1 206.0C607.8 206.0 612.6 206.0 617.3 206.0C622.0 206.0 626.8 206.0 631.5 206.0C636.2 206.0 641.0 206.0 645.7 206.0C650.4 206.0 655.2 206.0 659.9 206.0C664.6 206.0 669.4 206.0 674.1 206.0C678.8 206.0 683.6 206.0 688.3 206.0C693.0 206.0 697.8 206.0 702.5 206.0C707.2 206.0 712.0 206.0 716.7 206.0C721.4 206.0 726.2 206.0 730.9 206.0C735.6 206.0 740.4 206.0 745.1 206.0C749.8 206.0 754.6 206.0 759.3 206.0C764.0 206.0 768.8 206.0 773.5 206.0C778.2 206.0 783.0 206.0 787.7 206.0C792.4 206.0 797.2 196.3 801.9 191.4L801.9 206.0L63.5 206.0Z"/>
+<path class="halo" pathLength="1" d="M63.5 206.0C68.2 206.0 73.0 206.0 77.7 206.0C82.4 206.0 87.2 195.0 91.9 195.0C96.6 195.0 101.4 206.0 106.1 206.0C110.8 206.0 115.6 191.4 120.3 191.4C125.0 191.4 129.8 206.0 134.5 206.0C139.2 206.0 144.0 206.0 148.7 206.0C153.4 206.0 158.2 191.4 162.9 191.4C167.6 191.4 172.4 206.0 177.1 206.0C181.8 206.0 186.6 206.0 191.3 206.0C196.0 206.0 200.8 206.0 205.5 206.0C210.2 206.0 215.0 206.0 219.7 206.0C224.4 206.0 229.2 206.0 233.9 206.0C238.6 206.0 243.4 206.0 248.1 206.0C252.8 206.0 257.6 206.0 262.3 206.0C267.0 206.0 271.8 206.0 276.5 206.0C281.2 206.0 286.0 206.0 290.7 206.0C295.4 206.0 300.2 206.0 304.9 206.0C309.6 206.0 314.4 206.0 319.1 206.0C323.8 206.0 328.6 206.0 333.3 206.0C338.0 206.0 342.8 206.0 347.5 206.0C352.2 206.0 357.0 206.0 361.7 206.0C366.4 206.0 371.2 206.0 375.9 206.0C380.6 206.0 385.4 198.7 390.1 198.7C394.8 198.7 399.6 198.7 404.3 198.7C409.0 198.7 413.8 206.0 418.5 206.0C423.2 206.0 428.0 180.4 432.7 180.4C437.4 180.4 442.2 198.7 446.9 198.7C451.6 198.7 456.4 182.3 461.1 169.5C465.8 156.7 470.6 122.0 475.3 122.0C480.0 122.0 484.8 154.9 489.5 165.8C494.2 176.8 499.0 187.7 503.7 187.7C508.4 187.7 513.2 162.2 517.9 154.9C522.6 147.6 527.4 143.9 532.1 143.9C536.8 143.9 541.6 165.8 546.3 165.8C551.0 165.8 555.8 162.2 560.5 162.2C565.2 162.2 570.0 191.4 574.7 191.4C579.4 191.4 584.2 187.7 588.9 187.7C593.6 187.7 598.4 206.0 603.1 206.0C607.8 206.0 612.6 206.0 617.3 206.0C622.0 206.0 626.8 206.0 631.5 206.0C636.2 206.0 641.0 206.0 645.7 206.0C650.4 206.0 655.2 206.0 659.9 206.0C664.6 206.0 669.4 206.0 674.1 206.0C678.8 206.0 683.6 206.0 688.3 206.0C693.0 206.0 697.8 206.0 702.5 206.0C707.2 206.0 712.0 206.0 716.7 206.0C721.4 206.0 726.2 206.0 730.9 206.0C735.6 206.0 740.4 206.0 745.1 206.0C749.8 206.0 754.6 206.0 759.3 206.0C764.0 206.0 768.8 206.0 773.5 206.0C778.2 206.0 783.0 206.0 787.7 206.0C792.4 206.0 797.2 196.3 801.9 191.4"/>
+<path id="trend" class="line" pathLength="1" d="M63.5 206.0C68.2 206.0 73.0 206.0 77.7 206.0C82.4 206.0 87.2 195.0 91.9 195.0C96.6 195.0 101.4 206.0 106.1 206.0C110.8 206.0 115.6 191.4 120.3 191.4C125.0 191.4 129.8 206.0 134.5 206.0C139.2 206.0 144.0 206.0 148.7 206.0C153.4 206.0 158.2 191.4 162.9 191.4C167.6 191.4 172.4 206.0 177.1 206.0C181.8 206.0 186.6 206.0 191.3 206.0C196.0 206.0 200.8 206.0 205.5 206.0C210.2 206.0 215.0 206.0 219.7 206.0C224.4 206.0 229.2 206.0 233.9 206.0C238.6 206.0 243.4 206.0 248.1 206.0C252.8 206.0 257.6 206.0 262.3 206.0C267.0 206.0 271.8 206.0 276.5 206.0C281.2 206.0 286.0 206.0 290.7 206.0C295.4 206.0 300.2 206.0 304.9 206.0C309.6 206.0 314.4 206.0 319.1 206.0C323.8 206.0 328.6 206.0 333.3 206.0C338.0 206.0 342.8 206.0 347.5 206.0C352.2 206.0 357.0 206.0 361.7 206.0C366.4 206.0 371.2 206.0 375.9 206.0C380.6 206.0 385.4 198.7 390.1 198.7C394.8 198.7 399.6 198.7 404.3 198.7C409.0 198.7 413.8 206.0 418.5 206.0C423.2 206.0 428.0 180.4 432.7 180.4C437.4 180.4 442.2 198.7 446.9 198.7C451.6 198.7 456.4 182.3 461.1 169.5C465.8 156.7 470.6 122.0 475.3 122.0C480.0 122.0 484.8 154.9 489.5 165.8C494.2 176.8 499.0 187.7 503.7 187.7C508.4 187.7 513.2 162.2 517.9 154.9C522.6 147.6 527.4 143.9 532.1 143.9C536.8 143.9 541.6 165.8 546.3 165.8C551.0 165.8 555.8 162.2 560.5 162.2C565.2 162.2 570.0 191.4 574.7 191.4C579.4 191.4 584.2 187.7 588.9 187.7C593.6 187.7 598.4 206.0 603.1 206.0C607.8 206.0 612.6 206.0 617.3 206.0C622.0 206.0 626.8 206.0 631.5 206.0C636.2 206.0 641.0 206.0 645.7 206.0C650.4 206.0 655.2 206.0 659.9 206.0C664.6 206.0 669.4 206.0 674.1 206.0C678.8 206.0 683.6 206.0 688.3 206.0C693.0 206.0 697.8 206.0 702.5 206.0C707.2 206.0 712.0 206.0 716.7 206.0C721.4 206.0 726.2 206.0 730.9 206.0C735.6 206.0 740.4 206.0 745.1 206.0C749.8 206.0 754.6 206.0 759.3 206.0C764.0 206.0 768.8 206.0 773.5 206.0C778.2 206.0 783.0 206.0 787.7 206.0C792.4 206.0 797.2 196.3 801.9 191.4"/>
 <circle class="sparkglow" r="9"><animateMotion dur="8s" repeatCount="indefinite"><mpath xlink:href="#trend"/></animateMotion></circle>
 <circle class="spark" r="3.5"><animateMotion dur="8s" repeatCount="indefinite"><mpath xlink:href="#trend"/></animateMotion></circle>
 </g>
@@ -118,7 +118,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helveti
 <rect class="day l0" x="143.2" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:0.32s"/>
 <rect class="day l0" x="143.2" y="311.0" width="11" height="11" rx="2.5" style="animation-delay:0.34s"/>
 <rect class="day l0" x="143.2" y="325.2" width="11" height="11" rx="2.5" style="animation-delay:0.36s"/>
-<rect class="day l2" x="157.4" y="240.0" width="11" height="11" rx="2.5" style="animation-delay:0.28s"/>
+<rect class="day l1" x="157.4" y="240.0" width="11" height="11" rx="2.5" style="animation-delay:0.28s"/>
 <rect class="day l1" x="157.4" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:0.30s"/>
 <rect class="day l0" x="157.4" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:0.32s"/>
 <rect class="day l0" x="157.4" y="282.6" width="11" height="11" rx="2.5" style="animation-delay:0.34s"/>
@@ -232,7 +232,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helveti
 <rect class="day l0" x="370.4" y="325.2" width="11" height="11" rx="2.5" style="animation-delay:1.00s"/>
 <rect class="day l0" x="384.6" y="240.0" width="11" height="11" rx="2.5" style="animation-delay:0.92s"/>
 <rect class="day l1" x="384.6" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:0.94s"/>
-<rect class="day l0" x="384.6" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:0.96s"/>
+<rect class="day l1" x="384.6" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:0.96s"/>
 <rect class="day l0" x="384.6" y="282.6" width="11" height="11" rx="2.5" style="animation-delay:0.98s"/>
 <rect class="day l0" x="384.6" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.00s"/>
 <rect class="day l0" x="384.6" y="311.0" width="11" height="11" rx="2.5" style="animation-delay:1.02s"/>
@@ -254,7 +254,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helveti
 <rect class="day l0" x="427.2" y="240.0" width="11" height="11" rx="2.5" style="animation-delay:1.04s"/>
 <rect class="day l0" x="427.2" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:1.06s"/>
 <rect class="day l0" x="427.2" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:1.08s"/>
-<rect class="day l2" x="427.2" y="282.6" width="11" height="11" rx="2.5" style="animation-delay:1.10s"/>
+<rect class="day l3" x="427.2" y="282.6" width="11" height="11" rx="2.5" style="animation-delay:1.10s"/>
 <rect class="day l1" x="427.2" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.12s"/>
 <rect class="day l0" x="427.2" y="311.0" width="11" height="11" rx="2.5" style="animation-delay:1.14s"/>
 <rect class="day l0" x="427.2" y="325.2" width="11" height="11" rx="2.5" style="animation-delay:1.16s"/>
@@ -262,14 +262,14 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helveti
 <rect class="day l0" x="441.4" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:1.10s"/>
 <rect class="day l0" x="441.4" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:1.12s"/>
 <rect class="day l1" x="441.4" y="282.6" width="11" height="11" rx="2.5" style="animation-delay:1.14s"/>
-<rect class="day l0" x="441.4" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.16s"/>
+<rect class="day l1" x="441.4" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.16s"/>
 <rect class="day l0" x="441.4" y="311.0" width="11" height="11" rx="2.5" style="animation-delay:1.18s"/>
 <rect class="day l0" x="441.4" y="325.2" width="11" height="11" rx="2.5" style="animation-delay:1.20s"/>
 <rect class="day l0" x="455.6" y="240.0" width="11" height="11" rx="2.5" style="animation-delay:1.12s"/>
 <rect class="day l2" x="455.6" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:1.14s"/>
-<rect class="day l0" x="455.6" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:1.16s"/>
+<rect class="day l1" x="455.6" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:1.16s"/>
 <rect class="day l3" x="455.6" y="282.6" width="11" height="11" rx="2.5" style="animation-delay:1.18s"/>
-<rect class="day l0" x="455.6" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.20s"/>
+<rect class="day l1" x="455.6" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.20s"/>
 <rect class="day l0" x="455.6" y="311.0" width="11" height="11" rx="2.5" style="animation-delay:1.22s"/>
 <rect class="day l0" x="455.6" y="325.2" width="11" height="11" rx="2.5" style="animation-delay:1.24s"/>
 <rect class="day l4" x="469.8" y="240.0" width="11" height="11" rx="2.5" style="animation-delay:1.16s"/>
@@ -283,40 +283,40 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helveti
 <rect class="day l4" x="484.0" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:1.22s"/>
 <rect class="day l0" x="484.0" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:1.24s"/>
 <rect class="day l1" x="484.0" y="282.6" width="11" height="11" rx="2.5" style="animation-delay:1.26s"/>
-<rect class="day l0" x="484.0" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.28s"/>
+<rect class="day l1" x="484.0" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.28s"/>
 <rect class="day l1" x="484.0" y="311.0" width="11" height="11" rx="2.5" style="animation-delay:1.30s"/>
 <rect class="day l0" x="484.0" y="325.2" width="11" height="11" rx="2.5" style="animation-delay:1.32s"/>
 <rect class="day l0" x="498.2" y="240.0" width="11" height="11" rx="2.5" style="animation-delay:1.24s"/>
-<rect class="day l2" x="498.2" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:1.26s"/>
-<rect class="day l0" x="498.2" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:1.28s"/>
+<rect class="day l1" x="498.2" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:1.26s"/>
+<rect class="day l1" x="498.2" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:1.28s"/>
 <rect class="day l1" x="498.2" y="282.6" width="11" height="11" rx="2.5" style="animation-delay:1.30s"/>
-<rect class="day l0" x="498.2" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.32s"/>
+<rect class="day l1" x="498.2" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.32s"/>
 <rect class="day l0" x="498.2" y="311.0" width="11" height="11" rx="2.5" style="animation-delay:1.34s"/>
 <rect class="day l0" x="498.2" y="325.2" width="11" height="11" rx="2.5" style="animation-delay:1.36s"/>
 <rect class="day l1" x="512.4" y="240.0" width="11" height="11" rx="2.5" style="animation-delay:1.28s"/>
 <rect class="day l2" x="512.4" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:1.30s"/>
-<rect class="day l1" x="512.4" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:1.32s"/>
+<rect class="day l2" x="512.4" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:1.32s"/>
 <rect class="day l3" x="512.4" y="282.6" width="11" height="11" rx="2.5" style="animation-delay:1.34s"/>
-<rect class="day l0" x="512.4" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.36s"/>
+<rect class="day l1" x="512.4" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.36s"/>
 <rect class="day l0" x="512.4" y="311.0" width="11" height="11" rx="2.5" style="animation-delay:1.38s"/>
 <rect class="day l0" x="512.4" y="325.2" width="11" height="11" rx="2.5" style="animation-delay:1.40s"/>
 <rect class="day l2" x="526.6" y="240.0" width="11" height="11" rx="2.5" style="animation-delay:1.32s"/>
 <rect class="day l4" x="526.6" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:1.34s"/>
 <rect class="day l0" x="526.6" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:1.36s"/>
-<rect class="day l2" x="526.6" y="282.6" width="11" height="11" rx="2.5" style="animation-delay:1.38s"/>
+<rect class="day l3" x="526.6" y="282.6" width="11" height="11" rx="2.5" style="animation-delay:1.38s"/>
 <rect class="day l0" x="526.6" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.40s"/>
 <rect class="day l0" x="526.6" y="311.0" width="11" height="11" rx="2.5" style="animation-delay:1.42s"/>
 <rect class="day l0" x="526.6" y="325.2" width="11" height="11" rx="2.5" style="animation-delay:1.44s"/>
 <rect class="day l0" x="540.8" y="240.0" width="11" height="11" rx="2.5" style="animation-delay:1.36s"/>
-<rect class="day l2" x="540.8" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:1.38s"/>
+<rect class="day l3" x="540.8" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:1.38s"/>
 <rect class="day l0" x="540.8" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:1.40s"/>
 <rect class="day l3" x="540.8" y="282.6" width="11" height="11" rx="2.5" style="animation-delay:1.42s"/>
-<rect class="day l0" x="540.8" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.44s"/>
+<rect class="day l1" x="540.8" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.44s"/>
 <rect class="day l0" x="540.8" y="311.0" width="11" height="11" rx="2.5" style="animation-delay:1.46s"/>
 <rect class="day l0" x="540.8" y="325.2" width="11" height="11" rx="2.5" style="animation-delay:1.48s"/>
 <rect class="day l3" x="555.0" y="240.0" width="11" height="11" rx="2.5" style="animation-delay:1.40s"/>
-<rect class="day l3" x="555.0" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:1.42s"/>
-<rect class="day l0" x="555.0" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:1.44s"/>
+<rect class="day l2" x="555.0" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:1.42s"/>
+<rect class="day l1" x="555.0" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:1.44s"/>
 <rect class="day l0" x="555.0" y="282.6" width="11" height="11" rx="2.5" style="animation-delay:1.46s"/>
 <rect class="day l0" x="555.0" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.48s"/>
 <rect class="day l0" x="555.0" y="311.0" width="11" height="11" rx="2.5" style="animation-delay:1.50s"/>
@@ -327,8 +327,8 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helveti
 <rect class="day l0" x="569.2" y="282.6" width="11" height="11" rx="2.5" style="animation-delay:1.50s"/>
 <rect class="day l0" x="569.2" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:1.52s"/>
 <rect class="day l0" x="569.2" y="311.0" width="11" height="11" rx="2.5" style="animation-delay:1.54s"/>
-<rect class="day l1" x="569.2" y="325.2" width="11" height="11" rx="2.5" style="animation-delay:1.56s"/>
-<rect class="day l0" x="583.4" y="240.0" width="11" height="11" rx="2.5" style="animation-delay:1.48s"/>
+<rect class="day l0" x="569.2" y="325.2" width="11" height="11" rx="2.5" style="animation-delay:1.56s"/>
+<rect class="day l1" x="583.4" y="240.0" width="11" height="11" rx="2.5" style="animation-delay:1.48s"/>
 <rect class="day l0" x="583.4" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:1.50s"/>
 <rect class="day l0" x="583.4" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:1.52s"/>
 <rect class="day l2" x="583.4" y="282.6" width="11" height="11" rx="2.5" style="animation-delay:1.54s"/>
@@ -437,7 +437,8 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helveti
 <rect class="day l0" x="796.4" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:2.10s"/>
 <rect class="day l0" x="796.4" y="268.4" width="11" height="11" rx="2.5" style="animation-delay:2.12s"/>
 <rect class="day l2" x="796.4" y="282.6" width="11" height="11" rx="2.5" style="animation-delay:2.14s"/>
-<text class="small" x="28" y="368">Actualizado el 7 oct 2026</text>
+<rect class="day l1" x="796.4" y="296.8" width="11" height="11" rx="2.5" style="animation-delay:2.16s"/>
+<text class="small" x="28" y="368">Actualizado el 8 oct 2026</text>
 <text class="small" x="708" y="368" text-anchor="end">Menos</text>
 <rect class="l0" x="714" y="358" width="11" height="11" rx="2.5"/>
 <rect class="l1" x="728" y="358" width="11" height="11" rx="2.5"/>
