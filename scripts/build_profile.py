@@ -9,6 +9,7 @@ Uso:
 """
 import datetime as dt
 import json
+import math
 import os
 import pathlib
 import urllib.request
@@ -21,13 +22,6 @@ TAGLINE = "ERP y CRM a medida · Apps móviles · Web"
 ASSETS = pathlib.Path(__file__).resolve().parent.parent / "assets"
 API = "https://api.github.com/graphql"
 MONTHS = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"]
-LEVELS = {
-    "NONE": 0,
-    "FIRST_QUARTILE": 1,
-    "SECOND_QUARTILE": 2,
-    "THIRD_QUARTILE": 3,
-    "FOURTH_QUARTILE": 4,
-}
 
 # Colores de GitHub (Primer) para que las tarjetas se integren con la página
 # tanto en tema claro como oscuro.
@@ -68,7 +62,7 @@ def fetch():
     data = graphql(
         """query($login:String!){user(login:$login){name contributionsCollection{
         contributionYears contributionCalendar{totalContributions
-        weeks{contributionDays{date weekday contributionCount contributionLevel}}}}}}""",
+        weeks{contributionDays{date weekday contributionCount}}}}}}""",
         {"login": LOGIN},
     )["user"]
     collection = data["contributionsCollection"]
@@ -99,6 +93,16 @@ def short_date(iso, with_year=False):
     date = dt.date.fromisoformat(iso)
     text = "%d %s" % (date.day, MONTHS[date.month - 1])
     return "%s %d" % (text, date.year) if with_year else text
+
+
+def level_cap(days):
+    """Tope para repartir los 4 tonos de verde: percentil 95 de los días con actividad.
+
+    GitHub entrega a los visitantes niveles lineales sobre el máximo, así que un
+    solo día atípico deja casi todo el calendario en el tono más bajo.
+    """
+    counts = sorted(day["contributionCount"] for day in days if day["contributionCount"])
+    return max(counts[int(0.95 * (len(counts) - 1))], 4) if counts else 4
 
 
 def smooth_path(points):
@@ -225,6 +229,7 @@ def build_activity(weeks, total_year, history):
     total_all = sum(history.values()) or total_year
     weekly = [sum(day["contributionCount"] for day in week["contributionDays"]) for week in weeks]
     peak = max(max(weekly), 1)
+    cap = level_cap(days)
 
     points = [
         (left + i * pitch + cell / 2, baseline - (value / peak) * (baseline - chart_top))
@@ -313,7 +318,7 @@ def build_activity(weeks, total_year, history):
             out.append(
                 '<rect class="day l%d" x="%.1f" y="%.1f" width="%d" height="%d" rx="2.5" style="animation-delay:%.2fs"/>'
                 % (
-                    LEVELS.get(day["contributionLevel"], 0),
+                    min(4, math.ceil(day["contributionCount"] * 4 / cap)),
                     left + col * pitch,
                     grid_top + row * pitch,
                     cell,
