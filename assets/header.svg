@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 840 190" width="840" height="190" role="img" aria-label="Oscar Alvarado — ERP y CRM a medida · Apps móviles · Web">
+<style>
+:root{--bg:#ffffff;--bd:#d1d9e0;--fg:#1f2328;--mut:#59636e;--grid:#eaeef2;
+--l0:#eff2f5;--l1:#aceebb;--l2:#4ac26b;--l3:#2da44e;--l4:#116329;
+--green:#1a7f37;--blue:#0969da;--purple:#8250df}
+@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--bd:#3d444d;--fg:#f0f6fc;--mut:#9198a1;--grid:#21262d;
+--l0:#151b23;--l1:#033a16;--l2:#196c2e;--l3:#2ea043;--l4:#56d364;
+--green:#3fb950;--blue:#4493f8;--purple:#ab7df8}}
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;font-variant-numeric:tabular-nums}
+.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace}
+.card{fill:var(--bg);stroke:var(--bd)}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.eyebrow{font-size:12px;font-weight:600;letter-spacing:.16em;fill:var(--mut)}
+.name{font-size:42px;font-weight:700;fill:var(--fg);letter-spacing:-.01em}
+.tag{font-size:16px;fill:var(--mut)}
+.label{font-size:11px;fill:var(--mut);animation:fade .5s ease-out both}
+.green{--c:var(--green)}.blue{--c:var(--blue)}.purple{--c:var(--purple)}
+.lane{fill:none;stroke:var(--c);stroke-width:2.5;stroke-linecap:round;stroke-dasharray:1;animation:draw 1s linear both}
+.commit{fill:var(--c);stroke:var(--bg);stroke-width:3;transform-box:fill-box;transform-origin:center;animation:pop .4s ease-out both}
+.ring{fill:none;stroke:var(--purple);stroke-width:2;transform-box:fill-box;transform-origin:center;animation:ring 2.2s ease-out infinite both}
+.pulse{fill:var(--fg)}
+.glow{fill:url(#glow)}.g0{stop-color:var(--blue);stop-opacity:.16}.g1{stop-color:var(--blue);stop-opacity:0}
+.intro{animation:rise .7s ease-out both}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes pop{from{opacity:0;transform:scale(0)}60%{opacity:1;transform:scale(1.4)}to{opacity:1;transform:scale(1)}}
+@keyframes ring{from{opacity:0;transform:scale(1)}15%{opacity:.7}to{opacity:0;transform:scale(2.8)}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+</style>
+<defs><radialGradient id="glow"><stop class="g0" offset="0"/><stop class="g1" offset="1"/></radialGradient><clipPath id="clip"><rect x="1" y="1" width="838" height="188" rx="11"/></clipPath></defs>
+<rect class="card" x=".5" y=".5" width="839" height="189" rx="12"/>
+<g clip-path="url(#clip)"><circle class="glow" cx="660" cy="92" r="230"/></g>
+<text class="eyebrow intro" x="36" y="62">DESARROLLADOR DE SOFTWARE</text>
+<text class="name intro" x="34" y="108" style="animation-delay:.1s">Oscar Alvarado</text>
+<text class="tag intro" x="36" y="140" style="animation-delay:.2s">ERP y CRM a medida · Apps móviles · Web</text>
+<path id="lane0" class="lane green" pathLength="1" d="M472 132H808" style="animation-delay:0.20s;animation-duration:1.40s"/>
+<path id="lane1" class="lane blue" pathLength="1" d="M522 132C548 132 548 92 574 92H668C694 92 694 132 720 132" style="animation-delay:0.41s;animation-duration:0.94s"/>
+<path id="lane2" class="lane purple" pathLength="1" d="M606 92C632 92 632 52 658 52H796" style="animation-delay:0.82s;animation-duration:0.85s"/>
+<circle class="pulse" r="2.5" opacity="0"><animateMotion dur="3.4s" begin="2.4s" repeatCount="indefinite"><mpath xlink:href="#lane0"/></animateMotion><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.12;.88;1" dur="3.4s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle class="pulse" r="2.5" opacity="0"><animateMotion dur="2.8s" begin="2.4s" repeatCount="indefinite"><mpath xlink:href="#lane1"/></animateMotion><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.12;.88;1" dur="2.8s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle class="pulse" r="2.5" opacity="0"><animateMotion dur="2.5s" begin="2.4s" repeatCount="indefinite"><mpath xlink:href="#lane2"/></animateMotion><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.12;.88;1" dur="2.5s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle class="commit green" cx="492" cy="132" r="6" style="animation-delay:0.28s"/>
+<circle class="commit green" cx="522" cy="132" r="6" style="animation-delay:0.41s"/>
+<circle class="commit green" cx="620" cy="132" r="6" style="animation-delay:0.82s"/>
+<circle class="commit green" cx="720" cy="132" r="6" style="animation-delay:1.35s"/>
+<circle class="commit green" cx="776" cy="132" r="6" style="animation-delay:1.47s"/>
+<circle class="commit blue" cx="574" cy="92" r="6" style="animation-delay:0.69s"/>
+<circle class="commit blue" cx="606" cy="92" r="6" style="animation-delay:0.82s"/>
+<circle class="commit blue" cx="668" cy="92" r="6" style="animation-delay:1.08s"/>
+<circle class="commit purple" cx="658" cy="52" r="6" style="animation-delay:1.10s"/>
+<circle class="commit purple" cx="704" cy="52" r="6" style="animation-delay:1.29s"/>
+<circle class="commit purple" cx="750" cy="52" r="6" style="animation-delay:1.48s"/>
+<circle class="ring" cx="796" cy="52" r="7" style="animation-delay:1.97s"/>
+<circle class="commit purple" cx="796" cy="52" r="7.5" style="animation-delay:1.67s"/>
+<text class="label mono" x="804" y="34" text-anchor="end" style="animation-delay:1.87s">HEAD</text>
+<text class="label mono" x="776" y="158" text-anchor="middle" style="animation-delay:1.7s">main</text>
+</svg>
