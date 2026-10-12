@@ -434,7 +434,8 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helveti
 <rect class="day l2" x="782.2" y="311.0" width="11" height="11" rx="2.5" style="animation-delay:2.14s"/>
 <rect class="day l0" x="782.2" y="325.2" width="11" height="11" rx="2.5" style="animation-delay:2.16s"/>
 <rect class="day l0" x="796.4" y="240.0" width="11" height="11" rx="2.5" style="animation-delay:2.08s"/>
-<text class="small" x="28" y="368">Actualizado el 11 oct 2026</text>
+<rect class="day l0" x="796.4" y="254.2" width="11" height="11" rx="2.5" style="animation-delay:2.10s"/>
+<text class="small" x="28" y="368">Actualizado el 12 oct 2026</text>
 <text class="small" x="708" y="368" text-anchor="end">Menos</text>
 <rect class="l0" x="714" y="358" width="11" height="11" rx="2.5"/>
 <rect class="l1" x="728" y="358" width="11" height="11" rx="2.5"/>
